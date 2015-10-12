@@ -1,0 +1,11 @@
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\EyeFiLibrary\bin\Debug\EyeFiLibrary.dll
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\EyeFiLibrary\bin\Debug\EyeFiLibrary.pdb
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\EyeFiLibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\EyeFiLibrary\obj\Debug\EyeFiLibrary.dll
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\EyeFiLibrary\obj\Debug\EyeFiLibrary.pdb
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\EyeFiLibrary\obj\Debug\EyeFiLibrary.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\EyeFiLibrary\bin\Debug\EyeFiLibrary.dll
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\EyeFiLibrary\bin\Debug\EyeFiLibrary.pdb
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\EyeFiLibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\EyeFiLibrary\obj\Debug\EyeFiLibrary.dll
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\EyeFiLibrary\obj\Debug\EyeFiLibrary.pdb

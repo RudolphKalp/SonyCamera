@@ -1,0 +1,14 @@
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\bin\Debug\SonyCameraCommunication.pdb
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\obj\Debug\SonyCameraCommunication.pdb
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\bin\Debug\System.Net.Json.dll
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\bin\Debug\SonyCameraCommunication.dll.config
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\bin\Debug\SonyCameraCommunication.dll
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\obj\Debug\SonyCameraCommunication.dll
+C:\Users\Rudolph\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\obj\Debug\SonyCameraCommunication.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\bin\Debug\SonyCameraCommunication.dll.config
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\bin\Debug\SonyCameraCommunication.dll
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\bin\Debug\SonyCameraCommunication.pdb
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\bin\Debug\System.Net.Json.dll
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\obj\Debug\SonyCameraCommunication.dll
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyCameraCommunication\obj\Debug\SonyCameraCommunication.pdb

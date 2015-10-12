@@ -1,0 +1,4 @@
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyUSBCommunication\bin\Debug\SonyUSBCommunication.dll
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyUSBCommunication\bin\Debug\SonyUSBCommunication.pdb
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyUSBCommunication\obj\Debug\SonyUSBCommunication.dll
+D:\Documents\Visual Studio 2013\Projects\SonyCameraControl\SonyUSBCommunication\obj\Debug\SonyUSBCommunication.pdb
